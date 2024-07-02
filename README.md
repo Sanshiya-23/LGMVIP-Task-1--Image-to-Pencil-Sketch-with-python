@@ -1,1 +1,3 @@
 # LGMVIP-Task-1--Image-to-Pencil-Sketch-with-python
+
+This code aims to improve the visual appeal and creative value of a vivid digital image by converting it into a pencil sketch-like rendering. The method carefully converts the original image into grayscale, inverts it to highlight details, applies Gaussian blur for a smooth texture, and then combines these pieces to create a realistic pencil sketch effect by utilizing OpenCV's image processing capabilities. This alteration gives the picture a hand-drawn, artistic appearance by highlighting its edges and finer details. These methods are frequently applied in graphic design, digital art, and picture editing to give images original and imaginative effects.
